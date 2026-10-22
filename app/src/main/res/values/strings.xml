@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MiniShop Manager</string>
+
+
+    <string-array name="products">
+        <item>Téléphone</item>
+        <item>Casque Bluetooth</item>
+        <item>Montre connectée</item>
+        <item>Chargeur USB</item>
+    </string-array>
+
+
+    <string-array name="catalogue_telephones">
+        <item>Samsung Galaxy S24 - 2999 DT</item>
+        <item>iPhone 15 Pro - 4599 DT</item>
+        <item>Xiaomi Redmi Note 13 - 899 DT</item>
+        <item>Google Pixel 8 - 2599 DT</item>
+    </string-array>
+
+    <string-array name="catalogue_casques">
+        <item>AirPods Pro 2 - 899 DT</item>
+        <item>Sony WH-1000XM5 - 1299 DT</item>
+        <item>JBL Tune 720BT - 249 DT</item>
+        <item>Casque Gamer HyperX - 399 DT</item>
+    </string-array>
+
+    <string-array name="catalogue_montres">
+        <item>Apple Watch Series 9 - 1599 DT</item>
+        <item>Samsung Galaxy Watch 6 - 1099 DT</item>
+        <item>Xiaomi Smart Band 8 - 149 DT</item>
+        <item>Garmin Forerunner 255 - 1299 DT</item>
+    </string-array>
+
+    <string-array name="catalogue_chargeurs">
+        <item>Chargeur Anker 65W - 99 DT</item>
+        <item>Chargeur Sans Fil Samsung - 149 DT</item>
+        <item>Câble USB-C 2m - 29 DT</item>
+        <item>Powerbank 20000mAh - 129 DT</item>
+    </string-array>
+</resources>
